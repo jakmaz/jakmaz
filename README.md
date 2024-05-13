@@ -1,5 +1,7 @@
 # 💫 About Me:
-🔭 I’m currently working on free-games-notifier<br>🌱 I’m currently learning TypeScript, Java<br>📫 How to reach me j.mazur.nl@gmail.com<br>
+🔭 I’m currently working on [free-games-notifier](https://github.com/jakmaz/free-games-notifier)<br>
+🌱 I’m currently learning MERN Stack<br>
+📫 How to reach me j.mazur.nl@gmail.com<br>
 
 
 # 💻 Tech Stack:
