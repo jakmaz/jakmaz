@@ -1,3 +1,6 @@
+![image](https://github.com/jakmaz/jakmaz/assets/136567999/b26a9115-50b6-4aa9-a141-49045fdbf8b4)
+
+
 # 💫 About Me:
 🔭 I’m currently working on [free-games-notifier](https://github.com/jakmaz/free-games-notifier)<br>
 🌱 I’m currently learning MERN Stack<br>
