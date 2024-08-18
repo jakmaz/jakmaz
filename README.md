@@ -1,6 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working on [free-games-notifier](https://github.com/jakmaz/logely)<br>
-🌱 I’m currently learning MERN Stack<br>
+🔭 I’m currently working on [LogEly](https://github.com/jakmaz/logely)<br>
+🌱 I’m currently learning Next.jsk<br>
 📫 How to reach me j.mazur.nl@gmail.com<br>
 
 
