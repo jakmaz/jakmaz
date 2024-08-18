@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on [LogEly](https://github.com/jakmaz/logely)<br>
-🌱 I’m currently learning Next.jsk<br>
+🌱 I’m currently learning [Nextjs](https://nextjs.org/)<br>
 📫 How to reach me j.mazur.nl@gmail.com<br>
 
 
