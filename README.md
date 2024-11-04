@@ -1,4 +1,4 @@
-Driven by a passion for technology and development, dedicated to creating impactful software that makes a difference in people's lives.
+Computer Science Student & Full Stack Developer
 
 I’m diving deep into [Next.js](https://nextjs.org/) to create dynamic web experiences<br>
 Check out my portfolio: [jakmaz.com](https://jakmaz.com)<br>
