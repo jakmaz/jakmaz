@@ -1,6 +1,6 @@
 ### Computer Science Student & Full Stack Developer
 
-I’m diving deep into [Next.js](https://nextjs.org/)
+I’m diving deep into [Next.js](https://nextjs.org/)<br>
 Check out my portfolio: [jakmaz.com](https://jakmaz.com)<br>
 Feel free to reach me at: contact@jakmaz.com<br>
 
