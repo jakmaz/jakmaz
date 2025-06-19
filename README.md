@@ -1,3 +1,7 @@
+<p align="left">
+  <img src="https://jakmaz.com/icon.svg" width="100" alt="Logo">
+</p>
+
 ### Computer Science Student & Full Stack Developer
 
 I’m diving deep into [Next.js](https://nextjs.org/)<br>
