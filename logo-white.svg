@@ -1,0 +1,20 @@
+  <svg
+    width="280"
+    height="160"
+    viewBox="0 0 74.08337 42.33333"
+    version="1.1"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:svg="http://www.w3.org/2000/svg">
+    <g
+      transform="matrix(0.69768423,0,0,0.69768423,-10.628057,-26.325954)">
+      <path
+        style="fill:#ffffff;stroke-width:0.33446;paint-order:markers stroke fill"
+        d="M 91.07949,98.410259 106.24868,68.0718 121.41802,98.410259 Z" />
+      <path
+        style="fill:#ffffff;stroke-width:0.401355;paint-order:markers stroke fill"
+        d="M 60.741027,98.410259 H 75.910261 L 98.664112,52.902569 91.079493,37.733335 Z" />
+      <path
+        style="fill:#ffffff;stroke-width:0.401355;paint-order:markers stroke fill"
+        d="m 15.233335,98.410259 7.584608,-15.169233 15.169237,2e-6 22.753847,-45.507693 7.58462,15.169234 -22.753845,45.50769 z" />
+    </g>
+  </svg>
