@@ -7,7 +7,7 @@
 </p>
 
 
-### Computer Science Student & Full Stack Developer
+### Computer Science Student & Web Developer
 
 I’m diving deep into <a href="https://nextjs.org/">Next.js</a><br>
 Check out my portfolio: <a href="https://jakmaz.com">jakmaz.com</a><br>
