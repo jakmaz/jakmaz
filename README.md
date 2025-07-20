@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo-white.svg" width="200" height="100" alt="Logo"/>
+  <img src="https://jakmaz.com/icon.svg" width="200" height="100" alt="Logo"/>
 </p>
 
 <p align="center">
