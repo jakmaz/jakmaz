@@ -1,9 +1,5 @@
-<p align="center">
-  <img src="https://jakmaz.com/icon.svg" width="200" height="100" alt="Logo"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jakmaz&color=grey" alt="Profile views" />
+<p align="left">
+  <img src="https://jakmaz.com/icon.svg" width="100" height="100" alt="Logo"/>
 </p>
 
 
