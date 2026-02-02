@@ -1,6 +1,6 @@
 ### Hi
 
-I’m diving deep into **[Next.js](https://nextjs.org/)** and **[Go](https://go.dev/)**.
+I’m diving deep into **[Go](https://go.dev/)**. and backend systems
 
 Website: https://jakmaz.com  
 Contact: contact@jakmaz.com  
